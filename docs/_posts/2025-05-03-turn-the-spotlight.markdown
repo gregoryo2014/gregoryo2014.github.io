@@ -19,7 +19,7 @@ Time for a fact update.
 The Australian Labor Party (with their crap spelling) have just won the federal election by a wide margin. Prime Minister Anthony Albanese - and Foreign Minister Penny Wong before him - smoothly acknowledged Aboriginal country and the 300 or so nations which pre-dated Europeans landed here.
 The same political party led by the same man won the federal election in 2022, and in his victory speech Albo gave special mention to the Uluru Statement from the Heart and this:
 
-"We can answer its patient, gracious call for a voice enshrined in our constitution."
+***We can answer its patient, gracious call for a voice enshrined in our constitution.***
 
 Over a year later, the referendum resulted in a No vote. There are many reasons. I'll honour them with a moment's silence.
 
